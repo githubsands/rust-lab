@@ -17,6 +17,9 @@ Resources loosely ordered by difficulty.
 [rust book](https://doc.rust-lang.org/book/)
   
 [rust traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
+
+[rust effective](asd)(https://www.lurklurk.org/effective-rust/cover.html)
+
 [rust traits async](https://rust-lang.github.io/async-book/02_execution/02_future.html)
   
 [rust-async-book](https://github.com/rust-lang/async-book)
@@ -138,6 +141,7 @@ https://doc.rust-lang.org/std/iter/trait.Iterator.html
 | `.position()` | Returns the index of the first element that satisfies a predicate function, if any. | `iter.position(|x| x % 2 == 0)` |
 | `.product()` | Computes the product of all elements in the iterator. | `iter.product()` |
 | `.rev()` | Reverses the order of elements in the iterator. | `iter.rev()` |
+| `.scan()` | This method creates an iterator that uses state to transform elements | `N/A |
 | `.skip()` | Skips the first n elements of the iterator. | `iter.skip(3)` |
 | `.skip_while()` | Skips elements of the iterator based on a predicate function until the predicate is not satisfied. | `iter.skip_while(|x| x % 2 == 0)` |
 | `.step_by()` | Creates an iterator that skips elements based on a step value. | `iter.step_by(2)` |
