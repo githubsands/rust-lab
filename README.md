@@ -34,6 +34,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance book](https://nnethercote.github.io/perf-book/title-page.html)
 
+[rust performance book #2](https://www.amazon.com/Rust-High-Performance-performance-applications/dp/178839948X)
+
 [rust performance code](https://github.com/PacktPublishing/Rust-High-Performance)
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
