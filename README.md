@@ -26,15 +26,17 @@ Resources loosely ordered by difficulty.
  
 [rust-inaction](https://www.rustinaction.com/)
 
-[rust scripting][https://rhai.rs/book/]
+[rust scripting](https://rhai.rs/book/)
 
 [rust embedded](https://docs.rust-embedded.org/book/)
 
-[rust async continue][https://rust-lang.github.io/wg-async/welcome.html]
+[rust async continue][https://rust-lang.github.io/wg-async/welcome.html)
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
 [rust performance book](https://nnethercote.github.io/perf-book/title-page.html)
+
+[rust performance code](https://github.com/PacktPublishing/Rust-High-Performance)
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
