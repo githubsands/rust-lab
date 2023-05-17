@@ -18,7 +18,7 @@ Resources loosely ordered by difficulty.
   
 [rust traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 
-[rust effective](asd)(https://www.lurklurk.org/effective-rust/cover.html)
+[rust effective](https://www.lurklurk.org/effective-rust/cover.html)
 
 [rust traits async](https://rust-lang.github.io/async-book/02_execution/02_future.html)
   
@@ -29,8 +29,6 @@ Resources loosely ordered by difficulty.
 [rust scripting](https://rhai.rs/book/)
 
 [rust embedded](https://docs.rust-embedded.org/book/)
-
-[rust async continue][https://rust-lang.github.io/wg-async/welcome.html)
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
