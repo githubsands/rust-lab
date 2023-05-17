@@ -38,6 +38,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance code](https://github.com/PacktPublishing/Rust-High-Performance)
 
+[rust performance blog](http://troubles.md/posts/rust-optimization/)
+
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
 [rust borrow-system polonius](https://github.com/rust-lang/polonius)
