@@ -29,6 +29,8 @@ Resources loosely ordered by difficulty.
 [rust scripting](https://rhai.rs/book/)
 
 [rust embedded](https://docs.rust-embedded.org/book/)
+
+[rust linked list](https://rust-unofficial.github.io/too-many-lists/)
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
