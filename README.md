@@ -48,6 +48,8 @@ Resources loosely ordered by difficulty.
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
+[rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
+
 [rust borrow-system polonius](https://github.com/rust-lang/polonius)
   
 [rust nomicon](https://doc.rust-lang.org/nomicon/intro.html)
