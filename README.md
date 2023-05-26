@@ -34,6 +34,8 @@ Resources loosely ordered by difficulty.
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
+[rust elements](https://github.com/ferrous-systems/elements-of-rust)
+
 [rust contiguous data](https://github.com/paulkernfeld/contiguous-data-in-rust)
 
 [rust performance book](https://nnethercote.github.io/perf-book/title-page.html)
