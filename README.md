@@ -51,8 +51,10 @@ Resources loosely ordered by difficulty.
 [rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
 
 [rust borrow-system polonius](https://github.com/rust-lang/polonius)
-  
+
 [rust nomicon](https://doc.rust-lang.org/nomicon/intro.html)
+
+[rust_compiler](https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html)
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
