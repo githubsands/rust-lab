@@ -46,6 +46,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance blog](http://troubles.md/posts/rust-optimization/)
 
+[rust vs C clang benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-clang.html)
+
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
 [rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
