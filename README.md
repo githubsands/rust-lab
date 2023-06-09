@@ -12,6 +12,8 @@ Resources loosely ordered by difficulty.
 
 [rust for c++ programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 
+[rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+
 [rust move](https://move-language.github.io/move/)
     
 [rust book](https://doc.rust-lang.org/book/)
