@@ -36,6 +36,8 @@ Resources loosely ordered by difficulty.
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
+[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
+
 [rust elements](https://github.com/ferrous-systems/elements-of-rust)
 
 [rust contiguous data](https://github.com/paulkernfeld/contiguous-data-in-rust)
