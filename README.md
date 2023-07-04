@@ -23,6 +23,8 @@ Resources loosely ordered by difficulty.
 [rust effective](https://www.lurklurk.org/effective-rust/cover.html)
 
 [rust traits async](https://rust-lang.github.io/async-book/02_execution/02_future.html)
+
+[rust-macros](https://danielkeep.github.io/tlborm/book/README.html)
   
 [rust-async-book](https://github.com/rust-lang/async-book)
  
