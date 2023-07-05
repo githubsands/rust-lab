@@ -56,6 +56,8 @@ Resources loosely ordered by difficulty.
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
+[rust bound check blog]([https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e))
+
 [rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
 
 [rust borrow-system polonius](https://github.com/rust-lang/polonius)
@@ -65,6 +67,7 @@ Resources loosely ordered by difficulty.
 [rust_compiler](https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html)
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
+
 
 ## II. Indepth:
 
