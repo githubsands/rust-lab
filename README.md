@@ -58,7 +58,7 @@ Resources loosely ordered by difficulty.
 
 [rust for functional programmers](https://dr-knz.net/rust-for-functional-programmers.pdf)
 
-[rust bound check blog]([https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e))
+[rust bound check blog]([https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e])
 
 [rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
 
@@ -71,7 +71,7 @@ Resources loosely ordered by difficulty.
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
 
-## II. Indepth:
+## Scope
 
 1. [drop scopes](https://doc.rust-lang.org/reference/destructors.html#destructors)
 
@@ -93,7 +93,7 @@ Resources loosely ordered by difficulty.
     
     The parent of all other scopes is the scope of the immediately enclosing expression.
 
-### III. Datatypes reference size x64
+### Datatypes reference size x64
 
 | Rust Type | Description | Size (bytes) |
 |-----------|-------------|-------------|
@@ -124,7 +124,7 @@ Resources loosely ordered by difficulty.
 | `fn(usize) -> bool` | Function pointer | 16 (2 machine words) |
 | `!`      | The "never" type, which has no values | 0 |
 
-###  IV. Unwinding order of operations:
+###  Unwinding order of operations:
 
 | Tiered Error-Handling Scheme |
 |------------------------------|
@@ -133,47 +133,3 @@ Resources loosely ordered by difficulty.
 | 3. Thread panic: If something goes wrong and cannot reasonably be handled |
 | 4. Program abort: If something catastrophic happens |
 
-
-### V. Iterators
-
-https://doc.rust-lang.org/std/iter/trait.Iterator.html
-
-| Iterator Method | Description | Example |
-|-----------------|-------------|---------|
-| `.chain()` | Chains two iterators together, so they are processed sequentially. | `iter1.chain(iter2)` |
-| `.cloned()` | Creates an iterator that clones each element of the original iterator. | `iter.cloned()` |
-| `.collect()` | Collects elements from the iterator into a collection (e.g., a `Vec` or a `HashMap`). | `iter.collect::<Vec<_>>()` |
-| `.count()` | Returns the number of elements in the iterator. | `iter.count()` |
-| `.cycle()` | Repeats the iterator indefinitely. | `iter.cycle()` |
-| `.enumerate()` | Adds an index to each element of the iterator. | `iter.enumerate()` |
-| `.filter()` | Filters the iterator based on a predicate function. | `iter.filter(|x| x % 2 == 0)` |
-| `.filter_map()` | Applies a function to each element of the iterator and filters the `None` values. | `iter.filter_map(|x| x.checked_add(1))` |
-| `.find()` | Returns the first element that satisfies a predicate function, if any. | `iter.find(|x| x % 2 == 0)` |
-| `.find_map()` | Applies a function to each element and returns the first `Some(value)` returned, if any. | `iter.find_map(|x| x.checked_add(1))` |
-| `.flat_map()` | Maps an iterator by a function and then flattens the result. | `iter.flat_map(|x| x.iter())` |
-| `.flatten()` | Flattens nested iterators into a single iterator. | `iter.flatten()` |
-| `.fold()` | Folds the iterator using a binary function, starting with an initial accumulator value. | `iter.fold(0, |acc, x| acc + x)` |
-| `.inspect()` | Calls a function for each element of the iterator, passing a reference to it, and allows you to inspect the iterator elements. | `iter.inspect(|x| println!("Element: {:?}", x))` |
-| `.is_partitioned()` | Checks if the iterator is partitioned according to a predicate function. | `iter.is_partitioned(|x| x % 2 == 0)` |
-| `.last()` | Returns the last element of the iterator, if any. | `iter.last()` |
-| `.map()` | Applies a function to each element of the iterator. | `iter.map(|x| x * 2)` |
-| `.max()` | Returns the maximum element of the iterator, if any. | `iter.max()` |
-| `.max_by()` | Returns the maximum element of the iterator based on a comparator function, if any. | `iter.max_by(|a, b| a.cmp(b))` |
-| `.max_by_key()` | Returns the maximum element of the iterator based on a key extraction function, if any. | `iter.max_by_key(|x| x.abs())` |
-| `.min()` | Returns the minimum element of the iterator, if any. | `iter.min()` |
-| `.min_by()` | Returns the minimum element of the iterator based on a comparator function, if any. | `iter.min_by(|a, b| a.cmp(b))` |
-| `.min_by_key()` | Returns the minimum element of the iterator based on a key extraction function, if any. | `iter.min_by_key(|x| x.abs())` |
-| `.nth()` | Returns the nth element of the iterator, if any. | `iter.nth(3)` |
-| `.peekable()` | Creates a peekable iterator, allowing you to peek at the next element without consuming it. | `iter.peekable()` |
-| `.position()` | Returns the index of the first element that satisfies a predicate function, if any. | `iter.position(|x| x % 2 == 0)` |
-| `.product()` | Computes the product of all elements in the iterator. | `iter.product()` |
-| `.rev()` | Reverses the order of elements in the iterator. | `iter.rev()` |
-| `.scan()` | This method creates an iterator that uses state to transform elements | `N/A |
-| `.skip()` | Skips the first n elements of the iterator. | `iter.skip(3)` |
-| `.skip_while()` | Skips elements of the iterator based on a predicate function until the predicate is not satisfied. | `iter.skip_while(|x| x % 2 == 0)` |
-| `.step_by()` | Creates an iterator that skips elements based on a step value. | `iter.step_by(2)` |
-| `.sum()` | Computes the sum of all elements in the iterator. | `iter.sum()` |
-| `.take()` | Takes the first n elements of the iterator. | `iter.take(3)` |
-| `.take_while()` | Takes elements of the iterator based on a predicate function until the predicate is not satisfied. | `iter.take_while(|x| x % 2 == 0)` |
-| `.unzip()` | Transforms an iterator of pairs into two separate collections. | `iter.unzip()` |
-| `.zip()` | Zips two iterators together, combining them into a single iterator of pairs. | `iter1.zip(iter2)` |
