@@ -56,6 +56,8 @@ Resources loosely ordered by difficulty.
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
 
+[rust gpu programming](https://rust-gpu.github.io/Rust-CUDA/)
+
 [rust for functional programmers](https://dr-knz.net/rust-for-functional-programmers.pdf)
 
 [rust bound check blog]([https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e])
