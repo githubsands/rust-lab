@@ -42,6 +42,8 @@ Resources loosely ordered by difficulty.
 
 [c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
+[cache coherence continued](https://marabos.nl/atomics/hardware.html)
+
 [rust elements](https://github.com/ferrous-systems/elements-of-rust)
 
 [rust contiguous data](https://github.com/paulkernfeld/contiguous-data-in-rust)
