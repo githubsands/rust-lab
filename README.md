@@ -27,6 +27,8 @@ Resources loosely ordered by difficulty.
 [rust-macros](https://danielkeep.github.io/tlborm/book/README.html)
   
 [rust-async-book](https://github.com/rust-lang/async-book)
+
+[wasm](https://rustwasm.github.io/wasm-bindgen/)
  
 [rust-inaction](https://www.rustinaction.com/)
 
