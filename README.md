@@ -40,6 +40,8 @@ Resources loosely ordered by difficulty.
 
 [c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
 
+[c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
+
 [rust elements](https://github.com/ferrous-systems/elements-of-rust)
 
 [rust contiguous data](https://github.com/paulkernfeld/contiguous-data-in-rust)
