@@ -28,7 +28,9 @@ Resources loosely ordered by difficulty.
   
 [rust-async-book](https://github.com/rust-lang/async-book)
 
-[wasm](https://rustwasm.github.io/wasm-bindgen/)
+[wasm 1](https://rustwasm.github.io/docs/book/)
+
+[wasm 2](https://rustwasm.github.io/wasm-bindgen/)
  
 [rust-inaction](https://www.rustinaction.com/)
 
