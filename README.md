@@ -46,6 +46,8 @@ Resources loosely ordered by difficulty.
 
 [c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
+[latency tuning](https://rigtorp.se/low-latency-guide/)
+
 [cache coherence continued](https://marabos.nl/atomics/hardware.html)
 
 [rust elements](https://github.com/ferrous-systems/elements-of-rust)
