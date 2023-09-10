@@ -17,6 +17,8 @@ Resources loosely ordered by difficulty.
 [rust move](https://move-language.github.io/move/)
     
 [rust book](https://doc.rust-lang.org/book/)
+
+[rustup](https://rust-lang.github.io/rustup/index.html)
   
 [rust traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 
