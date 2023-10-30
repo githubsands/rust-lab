@@ -46,6 +46,8 @@ Resources loosely ordered by difficulty.
 
 [c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
 
+[c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
+
 [c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
 [latency tuning](https://rigtorp.se/low-latency-guide/)
