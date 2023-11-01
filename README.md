@@ -44,6 +44,8 @@ Resources loosely ordered by difficulty.
   
 [rust atomic locks book](https://www.goodreads.com/en/book/show/63291820)
 
+[rust lock free blog](https://morestina.net/blog/749/exploring-lock-free-rust-2-atomics)
+
 [c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
 
 [c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
