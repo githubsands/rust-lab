@@ -90,6 +90,10 @@ Resources loosely ordered by difficulty.
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
+### Commmunity
+
+[rust blog](https://users.rust-lang.org/)
+
 ### Datatypes reference size x64
 
 | Rust Type | Description | Size (bytes) |
