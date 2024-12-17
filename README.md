@@ -24,6 +24,8 @@ Resources loosely ordered by difficulty.
 
 [rust effective](https://www.lurklurk.org/effective-rust/cover.html)
 
+[drop scopes](https://doc.rust-lang.org/reference/destructors.html#destructors)
+
 [rust traits async](https://rust-lang.github.io/async-book/02_execution/02_future.html)
 
 [rust-macros](https://danielkeep.github.io/tlborm/book/README.html)
@@ -88,29 +90,6 @@ Resources loosely ordered by difficulty.
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
-
-## Scope
-
-1. [drop scopes](https://doc.rust-lang.org/reference/destructors.html#destructors)
-
-    The entire function scope is the outer most scope.
-    
-    The function body block is contained within the scope of the entire function.
-    
-    The parent of the expression in an expression statement is the scope of the statement.
-    
-    The parent of the initializer of a let statement is the let statement's scope.
-    
-    The parent of a statement scope is the scope of the block that contains the statement.
-    
-    The parent of the expression for a match guard is the scope of the arm that the guard is for.
-    
-    The parent of the expression after the => in a match expression is the scope of the arm that it's in.
-    
-    The parent of the arm scope is the scope of the match expression that it belongs to.
-    
-    The parent of all other scopes is the scope of the immediately enclosing expression.
-
 ### Datatypes reference size x64
 
 | Rust Type | Description | Size (bytes) |
@@ -141,13 +120,3 @@ Resources loosely ordered by difficulty.
 | `(T1, T2, ..)` | A tuple of values of types `T1`, `T2`, etc. | `size_of::<T1>() + size_of::<T2>() + ..` |
 | `fn(usize) -> bool` | Function pointer | 16 (2 machine words) |
 | `!`      | The "never" type, which has no values | 0 |
-
-###  Unwinding order of operations:
-
-| Tiered Error-Handling Scheme |
-|------------------------------|
-| 1. Option: If something might reasonably be absent |
-| 2. Result: If something goes wrong and can reasonably be handled |
-| 3. Thread panic: If something goes wrong and cannot reasonably be handled |
-| 4. Program abort: If something catastrophic happens |
-
