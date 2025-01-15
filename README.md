@@ -72,6 +72,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance code](https://github.com/PacktPublishing/Rust-High-Performance)
 
+[other](https://quinedot.github.io/rust-learning/index.html)
+
 [rust performance blog](http://troubles.md/posts/rust-optimization/)
 
 [rust vs C clang benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-clang.html)
