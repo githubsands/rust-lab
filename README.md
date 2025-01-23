@@ -64,6 +64,8 @@ Resources loosely ordered by difficulty.
 
 [rust elements](https://github.com/ferrous-systems/elements-of-rust)
 
+[c programming guide](https://beej.us/guide/bgc/html/split/)
+
 [rust contiguous data](https://github.com/paulkernfeld/contiguous-data-in-rust)
 
 [rust performance book](https://nnethercote.github.io/perf-book/title-page.html)
