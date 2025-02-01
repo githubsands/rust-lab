@@ -76,6 +76,8 @@ Resources loosely ordered by difficulty.
 
 [other](https://quinedot.github.io/rust-learning/index.html)
 
+[cargo](https://doc.rust-lang.org/cargo/)
+
 [rust performance blog](http://troubles.md/posts/rust-optimization/)
 
 [rust vs C clang benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-clang.html)
