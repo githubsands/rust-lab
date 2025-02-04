@@ -163,3 +163,11 @@ Resources loosely ordered by difficulty.
 [devtools](https://www.rust-lang.org/governance/teams/dev-tools)
 
 [library](https://www.rust-lang.org/governance/teams/library)
+
+### Rust social media
+
+[reddit](https://www.reddit.com/r/rust/)
+
+[X](https://x.com/rustlang?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[mastadon](https://social.rust-lang.org/@rust/111254933339473088)
