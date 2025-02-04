@@ -138,3 +138,8 @@ Resources loosely ordered by difficulty.
 | `(T1, T2, ..)` | A tuple of values of types `T1`, `T2`, etc. | `size_of::<T1>() + size_of::<T2>() + ..` |
 | `fn(usize) -> bool` | Function pointer | 16 (2 machine words) |
 | `!`      | The "never" type, which has no values | 0 |
+
+
+### Notable systems libraries
+
+[miri](https://github.com/rust-lang/miri)
