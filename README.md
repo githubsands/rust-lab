@@ -153,3 +153,13 @@ Resources loosely ordered by difficulty.
 [rust lang](https://github.com/rust-lang/rust)
 
 [ark works std](https://github.com/arkworks-rs/std)
+
+### Rust community team chats
+
+[language](https://rust-lang.org/governance/teams/t-lang)
+
+[compiler](https://rust-lang.org/governance/teams/t-compiler)
+
+[devtools](https://www.rust-lang.org/governance/teams/dev-tools)
+
+[library](https://www.rust-lang.org/governance/teams/library)
