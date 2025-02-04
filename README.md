@@ -2,7 +2,11 @@
 
 Resources for understanding rust **_fundamentals_** on an **_indepth level_**
 
-## I. Resources
+## I. Reference
+
+[rust reference](https://doc.rust-lang.org/reference/introduction.html)
+
+## II. Resources
   
 Resources loosely ordered by difficulty.
 
