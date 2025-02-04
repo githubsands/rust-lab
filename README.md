@@ -149,3 +149,5 @@ Resources loosely ordered by difficulty.
 [miri](https://github.com/rust-lang/miri)
 
 [zero copy](https://github.com/google/zerocopy)
+
+[rust lang](https://github.com/rust-lang/rust)
