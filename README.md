@@ -151,3 +151,5 @@ Resources loosely ordered by difficulty.
 [zero copy](https://github.com/google/zerocopy)
 
 [rust lang](https://github.com/rust-lang/rust)
+
+[ark works std](https://github.com/arkworks-rs/std)
