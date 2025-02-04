@@ -147,3 +147,5 @@ Resources loosely ordered by difficulty.
 ### Notable systems libraries
 
 [miri](https://github.com/rust-lang/miri)
+
+[zero copy](https://github.com/google/zerocopy)
