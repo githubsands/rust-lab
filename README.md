@@ -171,3 +171,7 @@ Resources loosely ordered by difficulty.
 [X](https://x.com/rustlang?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 [mastadon](https://social.rust-lang.org/@rust/111254933339473088)
+
+### Blogs
+
+[man is hearth](https://manishearth.github.io/)
