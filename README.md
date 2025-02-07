@@ -146,7 +146,7 @@ Resources loosely ordered by difficulty.
 ### LSP 
 
 [RustAnalyzer](https://rust-analyzer.github.io/book/configuration.html)
-[Lua](https://github.com/mrcjkb/rustaceanvim)
+[Lua](https://github.com/mrcjkb/rustaceanvim) / [Config](https://github.com/mrcjkb/rustaceanvim/blob/f03035fa03ccb36cd26d0792c946fbacba1d1a39/lua/rustaceanvim/config/internal.lua#L94)
 
 ### Notable systems libraries
 
