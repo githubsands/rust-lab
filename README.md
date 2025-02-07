@@ -98,6 +98,8 @@ Resources loosely ordered by difficulty.
 
 [rust bound check blog]([https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e])
 
+[unsafe](https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html)
+
 [rust chalk](https://rust-lang.github.io/chalk/book/what_is_chalk.html)
 
 [rust borrow-system polonius](https://github.com/rust-lang/polonius)
@@ -146,7 +148,7 @@ Resources loosely ordered by difficulty.
 ### LSP 
 
 [RustAnalyzer](https://rust-analyzer.github.io/book/configuration.html)
-[Lua](https://github.com/mrcjkb/rustaceanvim) / [Config](https://github.com/mrcjkb/rustaceanvim/blob/f03035fa03ccb36cd26d0792c946fbacba1d1a39/lua/rustaceanvim/config/internal.lua#L94)
+[Lua](https://github.com/mrcjkb/rustaceanvim) / [Config]
 
 ### Notable systems libraries
 
