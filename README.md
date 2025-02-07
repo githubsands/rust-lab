@@ -146,6 +146,7 @@ Resources loosely ordered by difficulty.
 ### LSP 
 
 [RustAnalyzer](https://rust-analyzer.github.io/book/configuration.html)
+[Lua](https://github.com/mrcjkb/rustaceanvim)
 
 ### Notable systems libraries
 
