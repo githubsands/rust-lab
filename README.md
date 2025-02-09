@@ -150,6 +150,10 @@ Resources loosely ordered by difficulty.
 [RustAnalyzer](https://rust-analyzer.github.io/book/configuration.html)
 [Lua](https://github.com/mrcjkb/rustaceanvim) / [Config]
 
+### Linter
+
+[Clippy](https://doc.rust-lang.org/clippy/)
+
 ### Notable systems libraries
 
 [miri](https://github.com/rust-lang/miri)
