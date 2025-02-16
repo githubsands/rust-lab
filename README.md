@@ -110,6 +110,10 @@ Resources loosely ordered by difficulty.
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
+### C++
+
+[c plus plus](https://cplusplus.com/)
+
 ### Commmunity
 
 [rust blog](https://users.rust-lang.org/)
