@@ -106,6 +106,8 @@ Resources loosely ordered by difficulty.
 
 [rust nomicon](https://doc.rust-lang.org/nomicon/intro.html)
 
+[rust unsafe code guidelines](https://rust-lang.github.io/unsafe-code-guidelines/introduction.html)
+
 [rust_compiler](https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html)
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
