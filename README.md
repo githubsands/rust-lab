@@ -108,7 +108,7 @@ Resources loosely ordered by difficulty.
 
 [rust unsafe code guidelines](https://rust-lang.github.io/unsafe-code-guidelines/introduction.html)
 
-[rust_compiler](https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html)
+[rustc rust compiler](https://doc.rust-lang.org/rustc/index.html)
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
