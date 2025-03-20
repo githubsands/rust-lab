@@ -72,6 +72,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance blog](http://troubles.md/posts/rust-optimization/)
 
+[rust uninit intuition](https://www.ralfj.de/blog/2019/07/14/uninit.html)
+
 [rust vs C clang benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-clang.html)
 
 [rust bound checks](https://github.com/Shnatsel/bounds-check-cookbook/)
@@ -162,3 +164,5 @@ Resources loosely ordered by difficulty.
 [man is hearth](https://manishearth.github.io/)
 
 [hacker news](https://www.google.com/search?q=hacker+news+rust+site%3Anews.ycombinator.com&client=firefox-b-1-d&sca_esv=b71b87a039ad9bf1&biw=1512&bih=805&ei=9XCiZ7-YMPvB0PEP3oWTsQM&ved=0ahUKEwj_5onB5qqLAxX7IDQIHd7CJDY4FBDh1QMIEA&uact=5&oq=hacker+news+rust+site%3Anews.ycombinator.com&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmhhY2tlciBuZXdzIHJ1c3Qgc2l0ZTpuZXdzLnljb21iaW5hdG9yLmNvbUiSFlAAWABwA3gAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAiAYBkgcAoAcA&sclient=gws-wiz-serp)
+
+[]
