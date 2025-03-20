@@ -20,10 +20,6 @@ Resources loosely ordered by difficulty.
 
 [rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
-[rust too many linked list](https://rust-unofficial.github.io/too-many-lists/)
-
-[rust move](https://move-language.github.io/move/)
-    
 [rust book](https://doc.rust-lang.org/book/)
 
 [rustup](https://rust-lang.github.io/rustup/index.html)
