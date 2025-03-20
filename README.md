@@ -1,4 +1,4 @@
- Rust Lab
+# Rust Lab
 
 Resources for understanding rust **_fundamentals_** on an **_indepth level_**
 
