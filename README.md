@@ -56,14 +56,6 @@ Resources loosely ordered by difficulty.
 
 [rust lock free blog](https://morestina.net/blog/749/exploring-lock-free-rust-2-atomics)
 
-[c++ RAII](https://en.cppreference.com/w/cpp/language/raii)
-
-[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
-
-[c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
-
-[c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
-
 [inline assembly](https://doc.rust-lang.org/reference/inline-assembly.html)
 
 [latency tuning](https://rigtorp.se/low-latency-guide/)
@@ -115,6 +107,15 @@ Resources loosely ordered by difficulty.
 ### C++
 
 [c plus plus](https://cplusplus.com/)
+
+[c++ RAII](https://en.cppreference.com/w/cpp/language/raii)
+
+[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
+
+[c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
+
+[c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
+
 
 ### Commmunity
 
