@@ -119,37 +119,6 @@ Resources loosely ordered by difficulty.
 
 [rust blog](https://users.rust-lang.org/)
 
-### Datatypes reference size x64
-
-| Rust Type | Description | Size (bytes) |
-|-----------|-------------|-------------|
-| `()`      | The unit type, also known as "unit" | 0 |
-| `bool`    | The boolean type | 1 |
-| `char`    | A character type | 4 |
-| `u8`      | An 8-bit unsigned integer | 1 |
-| `u16`     | A 16-bit unsigned integer | 2 |
-| `u32`     | A 32-bit unsigned integer | 4 |
-| `u64`     | A 64-bit unsigned integer | 8 |
-| `u128`    | A 128-bit unsigned integer | 16 |
-| usize   | The pointer-sized unsigned integer type | 32 on a x32; 64 on a x64|
-| `i8`      | An 8-bit signed integer | 1 |
-| `i16`     | A 16-bit signed integer | 2 |
-| `i32`     | A 32-bit signed integer | 4 |
-| `i64`     | A 64-bit signed integer | 8 |
-| `i128`    | A 128-bit signed integer | 16 |
-| `f32`     | A 32-bit floating point number | 4 |
-| `f64`     | A 64-bit floating point number | 8 |
-| `*const T` | Raw, unsafe pointer to a value of type `T` | 8 |
-| `*mut T`  | Mutable raw, unsafe pointer to a value of type `T` | 8 |
-| `&T`      | Shared reference to a value of type `T` | 8 |
-| `&mut T`  | Mutable reference to a value of type `T` | 8 |
-| `[T; N]`  | A fixed-size array of `N` elements of type `T` | `N * size_of::<T>()` |
-| `[T]`     | A dynamically-sized slice of elements of type `T` | 16 (2 machine words) |
-| `str`     | A UTF-8 encoded string slice | 16 (2 machine words) |
-| `(T1, T2, ..)` | A tuple of values of types `T1`, `T2`, etc. | `size_of::<T1>() + size_of::<T2>() + ..` |
-| `fn(usize) -> bool` | Function pointer | 16 (2 machine words) |
-| `!`      | The "never" type, which has no values | 0 |
-
 ### LSP 
 
 [RustAnalyzer](https://rust-analyzer.github.io/book/configuration.html)
