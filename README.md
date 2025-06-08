@@ -159,6 +159,10 @@ Resources loosely ordered by difficulty.
 
 [mastadon](https://social.rust-lang.org/@rust/111254933339473088)
 
+### Bit flipping
+
+[bit twiddling](https://graphics.stanford.edu/~seander/bithacks.html)
+
 ### Blogs
 
 [man is hearth](https://manishearth.github.io/)
