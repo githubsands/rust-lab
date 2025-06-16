@@ -171,6 +171,8 @@ Resources loosely ordered by difficulty.
 
 [linux kernal](https://www.kernel.org/doc/html/next/process/development-process.html)
 
+[c++ stack exchange](https://stackoverflow.com/questions/tagged/c%2b%2b?tab=newest&page=2&pagesize=15)
+
 ### culture
 
-[lethian] https://lethain.com/
+[lethian](https://lethain.com/)
