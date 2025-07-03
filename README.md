@@ -110,12 +110,17 @@ Resources loosely ordered by difficulty.
 
 [c++ RAII](https://en.cppreference.com/w/cpp/language/raii)
 
-[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
+### Atomics
 
-[c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
+[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
 
 [c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
+### Concurrency lock free and wait free 
+
+[lockfree resources](https://github.com/rigtorp/awesome-lockfree)
+
+[c++ lock free](https://en.cppreference.com/w/cpp/atomic/atomic/is_lock_free)
 
 ### Commmunity
 
