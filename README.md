@@ -182,6 +182,8 @@ https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 
 [c++ stack exchange](https://stackoverflow.com/questions/tagged/c%2b%2b?tab=newest&page=2&pagesize=15)
 
+[rust](https://stackoverflow.com/questions/tagged/rust)
+
 ### culture
 
 [lethian](https://lethain.com/)
