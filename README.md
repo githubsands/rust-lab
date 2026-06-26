@@ -114,10 +114,6 @@ Resources loosely ordered by difficulty.
 
 [atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
-### TBD
-
-https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
-
 ### Concurrency lock free and wait free 
 
 [lockfree resources](https://github.com/rigtorp/awesome-lockfree)
