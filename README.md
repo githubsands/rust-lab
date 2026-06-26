@@ -98,11 +98,11 @@ Resources loosely ordered by difficulty.
 
 [rust rfcs](https://rust-lang.github.io/rfcs/introduction.html)
 
-### C 
+### c
 
 [c programming guide](https://beej.us/guide/bgc/html/split/)
 
-### C++
+### c++
 
 [learn cpp](https://www.learncpp.com/)
 
@@ -112,11 +112,11 @@ Resources loosely ordered by difficulty.
 
 [cpp reference](https://en.cppreference.com/w/cpp/language/raii)
 
-### Atomics
+### memory model
 
-[c++ atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
+[atomics documentation](https://en.cppreference.com/w/cpp/atomic/memory_order)
 
-[c++ atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
+[atomics flaws](https://plv.mpi-sws.org/c11comp/popl15.pdf)
 
 ### TBD
 
