@@ -108,6 +108,8 @@ Resources loosely ordered by difficulty.
 
 [c++ site](https://cplusplus.com/)
 
+[noice notes](https://cppcheatsheet.com/notes/interview/index.html)
+
 [c++ RAII](https://en.cppreference.com/w/cpp/language/raii)
 
 ### Atomics
