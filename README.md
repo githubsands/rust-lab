@@ -104,13 +104,13 @@ Resources loosely ordered by difficulty.
 
 ### C++
 
-[learn c++](https://www.learncpp.com/)
+[learn cpp](https://www.learncpp.com/)
 
-[c++ site](https://cplusplus.com/)
+[c plus plus](https://cplusplus.com/)
 
 [noice notes](https://cppcheatsheet.com/notes/interview/index.html)
 
-[c++ RAII](https://en.cppreference.com/w/cpp/language/raii)
+[cpp reference](https://en.cppreference.com/w/cpp/language/raii)
 
 ### Atomics
 
