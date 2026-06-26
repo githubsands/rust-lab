@@ -72,6 +72,8 @@ Resources loosely ordered by difficulty.
 
 [rust performance blog](http://troubles.md/posts/rust-optimization/)
 
+[performance gist](https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186)
+
 [rust uninit intuition](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
 [rust vs C clang benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/rust-clang.html)
